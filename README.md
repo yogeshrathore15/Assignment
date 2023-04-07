@@ -104,4 +104,4 @@ The Prometheus instance should be accessible at http://localhost:9090, and it sh
 
 ---
 
-<a name="ftn1">1</a>: This scenario is inspired by the *[Tying This Together: Reverse Engineering a Production Service](https://sre.google/sre-book/accelerating-sre-on-call/#tying-this-together-reverse-engineering-a-production-service-ZKsDiLce)* section of chapter 28 from the Site Reliability Engineering book by Google.
+
